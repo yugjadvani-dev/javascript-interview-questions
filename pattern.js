@@ -8,10 +8,20 @@
 // * * * *
 // * * * * *
 
-let num = 5;
-for (let index = 0; index <= num; index++) {
-    console.log("*".repeat(index));
+// let num = 5;
+// for (let index = 0; index <= num; index++) {
     // console.log("* ".repeat(index));
-}
+// }
+
+// -------------------------------------------------------
+
+// triangle-pattern
+
+//   *
+//  * *
+// * * *
+
+let num1 = 5;
+
 
 // -------------------------------------------------------
